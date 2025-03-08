@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+  display: none;
+}
+:root{
+  font-family:'Inter', sans-serif;
+  font-optical-sizing: auto;
+  background: #10011a;
+  color: white;
+  scroll-behavior: smooth;
+}
+
+#work, #about, #projects, #testimonials, #contact{
+  scroll-margin-top:80px;
+  
+}
