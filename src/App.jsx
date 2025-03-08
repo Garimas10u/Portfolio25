@@ -5,7 +5,7 @@ import Hero from "./components/Hero.jsx";
 import Experience from "./components/Experience.jsx";
 import Projects from "./components/Projects.jsx";
 import About from "./components/About.jsx";
-import Testimonial from "./components/Testimonial.jsx";
+// import Testimonial from "./components/Testimonial.jsx";
 import Contact from "./components/Contact.jsx";
 import { TechStack } from "./components/Techstack.jsx";
 
@@ -22,8 +22,8 @@ function App() {
       <About />
       <TechStack />
       <Experience />
+      {/* <Testimonials /> */}
       <Projects/>
-      <Testimonial />
       <Contact />
     </main>
     </> 
