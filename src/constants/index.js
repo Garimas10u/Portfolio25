@@ -1,4 +1,4 @@
-import educore from "../assets/educore.png";
+import educore from "../assets/Educore.png";
 import foodeasy from "../assets/foodeasy.png";
 import envirocast from "../assets/envirocast.png";
 import netflix from "../assets/netflix.png";
