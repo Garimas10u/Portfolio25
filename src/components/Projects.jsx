@@ -54,7 +54,7 @@ const Projects = () => {
                 rel="noopener noreferrer"
                 className="px-6 py-2 bg-white/20 border border-white/40 backdrop-blur-lg text-white rounded-full transition hover:bg-purple-900/30 hover:scale-105"
               >
-                View on GitHub
+                View Live Project
               </a>
             </motion.div>
           </motion.div>
