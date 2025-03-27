@@ -24,9 +24,9 @@ import nihal from "../assets/nihal.jpg";
 
 export const LINKS = [
     { href: "#about", label: "About" },
+    { href: "#skills", label: "Skills" },
     { href: "#projects", label: "Projects" },
     { href: "#experience", label: "Experience" },
-    { href: "#testimonials", label: "Testimonials" },
     { href: "#contact", label: "Contact" },
   ];
   

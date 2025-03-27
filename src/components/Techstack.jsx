@@ -3,7 +3,7 @@ import { TECH_STACK } from "../constants/index.js";
 
 export function TechStack() {
   return (
-    <section className=" py-6 my-10">
+    <section  id="skills" className=" py-6 my-10">
       <h2 className="text-white text-3xl md:text-5xl font-bold py-4 text-center mb-8">
         My Tech Stack
       </h2>

@@ -22,7 +22,7 @@ const Projects = () => {
   };
 
   return (
-    <section className="px-6 py-10">
+    <section id="projects" className="px-6 py-10">
       <h1 className="text-4xl md:text-5xl font-extrabold text-center mb-10 text-white tracking-tight">
         My Projects
       </h1>
