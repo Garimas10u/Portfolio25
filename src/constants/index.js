@@ -21,6 +21,8 @@ import bootstrap from '../assets/bootstrap.png'
 import amrita from "../assets/amrita.jpg";
 import kunal from "../assets/kunal.jpg";
 import nihal from "../assets/nihal.jpg";
+import blogary from "../assets/blogary.png";
+import samvichar from "../assets/samvichar.png";
 
 export const LINKS = [
     { href: "#about", label: "About" },
@@ -65,18 +67,31 @@ export const LINKS = [
   
   export const PROJECTS = [
     {
+      name: "Blogary",
+      description: "A Blog App built using the MERN stack that allows users to write and publish blogs. One can create and manage blog posts, as well as moderate comments by adding or removing them.",
+      image: blogary,
+      link: "https://blogary.vercel.app",
+    },
+    {
       name: "Educore",
-      description: "An education institute website that provides course details, online enrollment, student resources, and a seamless learning experience",
+      description: "An education institute website that provides course details, online enrollment, student resources, and a seamless learning experience.",
       image: educore,
-      link: "https://github.com/your-github/streamerzz",
+      link: "https://662d570b52d90f14ae907748--educore10.netlify.app",
     },
     
     {
       name: "Envirocast",
       description: "Provides real-time environmental data, weather forecasts, and sustainability insights, helping users stay informed about climate conditions and eco-friendly practices.",
       image: envirocast,
-      link: "https://github.com/your-github/hairrevive",
+      link: "https://envirocast-axjx.vercel.app",
     },
+    {
+      name: "Samvichar",
+      description: "A Constitution Awareness App built using the MERN stack to educate users about the Indian Constitution. The app features interactive modules, informative articles, and quizzes to engage users.",
+      image: samvichar,
+      link: "https://sih-2024-zeta.vercel.app/",
+    },
+
     {
       name: "MovieNet",
       description:
@@ -88,13 +103,13 @@ export const LINKS = [
       name: "Foodeasy",
       description: "A food display and delivery app that lets users explore a variety of meals and order with ease. It ensures a smooth and efficient food ordering experience from selection to delivery.",
       image: foodeasy,
-      link: "https://github.com/your-github/nutritrack",
+      link: "https://foodeasydelivery.netlify.app",
     },
     {
       name: "PulseSync",
       description: "connects people worldwide, enabling them to share content, engage, and communicate seamlessly. ",
       image: pulsesync,
-      link: "https://github.com/your-github/fitconnect",
+      link: "https://pulsesync.netlify.app",
     },
   ];
   
